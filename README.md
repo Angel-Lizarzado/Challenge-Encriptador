@@ -51,4 +51,4 @@ Quiero agradecer a <b>Oracle Next Education</b> y <b>Alura Latam</b> por brindar
 
 
 ## Insignia de finalización del challenge:
-<img src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671210503Prancheta_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_esp&utm_medium=email&utm_source=RD+Station" alt="image" border="0" width="400">
+<img src="https://i.ibb.co/CvkdTpd/cms-files-10224-1671210503-Prancheta-3.png" alt="image" border="0" width="400">
